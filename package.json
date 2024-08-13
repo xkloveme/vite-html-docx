@@ -1,0 +1,28 @@
+{
+  "name": "vite-html-docx",
+  "version": "1.0.0",
+  "description": "html to docx js",
+  "main": "html-docx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm run publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkloveme/vite-html-docx.git"
+  },
+  "keywords": [
+    "html",
+    "docx",
+    "vite"
+  ],
+  "author": "xkloveme",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/xkloveme/vite-html-docx/issues"
+  },
+  "homepage": "https://github.com/xkloveme/vite-html-docx#readme"
+}
